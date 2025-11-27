@@ -50,7 +50,7 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) e-commerce application f
 
 ### 1. Clone the repository
 ```bash
-cd e-commerce
+cd Pasovit-Assignment
 ```
 
 ### 2. Backend Setup
@@ -62,7 +62,7 @@ npm install
 
 Create a `.env` file in the backend directory:
 ```env
-PORT=5000
+PORT=5001
 MONGODB_URI=mongodb:your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
 JWT_EXPIRE=7d
